@@ -10,7 +10,7 @@ import 'package:vania/vania.dart';
 class ApiRoute implements Route {
   @override
   void register() {
-    Router.basePrefix('api');
+    Router.basePrefix('vania');
 
 // route untuk kelola akun
     Router.group(
