@@ -1,4 +1,4 @@
-import 'package:tugas_vania/app/models/users.dart';
+import 'package:tugas_vania/app/models/tabel-users.dart';
 
 Map<String, dynamic> authConfig = {
   'guards': {
