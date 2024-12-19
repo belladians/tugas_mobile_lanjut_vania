@@ -1,7 +1,9 @@
 import 'package:vania/vania.dart';
 
-class User extends Model {
-  User() {
+class Users extends Model{
+
+  Users(){
     super.table('users');
   }
+
 }
