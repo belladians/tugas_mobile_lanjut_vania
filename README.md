@@ -1,7 +1,7 @@
 # INFORMASI UNTUK MENJALANKAN PROJECT VANIA
 
 * Ketika anda baru saja clone repositori ini, maka semua file akan error atau merah.
-* Jalankan `flutter pub get` untuk mengambil semua package yang diperlukan untuk menjalakan sistem.
+* Jalankan `flutter pub get` untuk mengambil semua package yang diperlukan untuk menjalankan sistem.
 * Setelah itu anda perlu untuk mengikuti cara menjalankan vania dart, berikut adalah link [Dokumentasi](https://vdart.dev) dari vania dart.
 * Singkatnya anda harus menjalankan `dart pub global activate vania_cli` agar terminal dapat mengetahui perintah dari vania.
 * Jika error mungkin anda belum memasukkan path dari vania dart ke environment varible di device anda.
@@ -9,7 +9,7 @@
 
 # DOKUMENTASI
 berikut ini adalah gambar pengujian menggunakan postman agar kita bisa berinteraksi dengan data.
-[foto.zip](https://github.com/user-attachments/files/18206102/foto.zip)
+
 
 ### Pengujian Informasi Akun
 * Registrasi akun
